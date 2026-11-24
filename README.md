@@ -2,6 +2,8 @@
 
 Presentación web inmersiva del proyecto **"Desarrollo de un sistema de información web para la gestión y seguimiento de casos de bienestar y convivencia estudiantil en instituciones educativas"** (Sebastián Patiño, Kevin Quiroga, Sophia Vanegas · Universidad Católica de Pereira · Pereira, octubre de 2026).
 
+**En línea:** https://convivencia360-alpha.vercel.app
+
 Es solo la presentación académica: no incluye simulador, backend ni módulos funcionales de la plataforma.
 
 ## Requisitos
